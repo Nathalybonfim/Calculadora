@@ -22,7 +22,8 @@ Uma **calculadora web simples** feita com HTML, CSS e JavaScript, capaz de reali
 
 ## 📸 Demonstração
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63444246-8adc-40f1-bb49-6654c5dd60e2" />
+<img width="1908" height="917" alt="IMAGE1" src="https://github.com/user-attachments/assets/6bad8a54-a59e-4fa9-9783-26d146b1a80d" />
+
 
 
 
